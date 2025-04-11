@@ -1,0 +1,3 @@
+link base de datos en Dbdiagram
+
+https://dbdiagram.io/d/Taller_ADSS-67f87bf94f7afba1842ebbec
